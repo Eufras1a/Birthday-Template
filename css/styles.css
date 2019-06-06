@@ -69,9 +69,6 @@ hr {
     transform: perspective(800px) rotateY(-170deg);
 }
 
-.back{
-}
-
 .card .back{
     position: absolute;
     height: 100%;
